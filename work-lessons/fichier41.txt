@@ -1,0 +1,20 @@
+Tom;20200929103812;Salut les gars
+Ben;20200929103943;Hello Tom :)
+Jack;20200929103959;Salut Tom !
+Tom;20200929104010;Des plans pour ce weekend ?
+Ben;20200929104018;Oui, je pars à la montagne.
+Jack;20200929104132;Moi rien de spécial !
+Tom;20200929104353;Dans quel coin tu vas Ben ?
+Ben;20200929104413;Dans Les Pyrénées, vers Luchon.
+Tom;20200929104432;Sympa ça !
+Jack;20200929104512;Tu vas faire quoi dans le coin ?
+Ben;20200929104526;Pas mal de randonnée
+Tom;20200929104552;Tu nous enverras des photos !
+Ben;20200929104606;Avec plaisir !
+Ben;20200929104630;À bientôt !
+Jack;20201002195312;Alors cette randonnée Ben ?
+Ben;20201002202435;C'était génial !
+Ben;20201002202442;On y retournera ensemble ;)
+Jack;20201002202518;Je suis partant !
+Tom;20201002202518;Moi aussi !
+

@@ -1,0 +1,5 @@
+Jean est né le 16/08/1974
+Elodie est née le 03/07/1985
+Cette date n'est pas valide : ab/CD/2016
+Eva est née le 10/12/1991
+Cela s'est passé le 28/07/2020 à 20h.

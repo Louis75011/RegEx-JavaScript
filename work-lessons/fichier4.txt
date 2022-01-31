@@ -1,0 +1,17 @@
+En informatique, une expression régulière est une chaîne de caractères, qui décrit, selon une syntaxe précise, un ensemble de chaînes de caractères possibles.
+
+Les caractères suivants sont des métacaractères (également appelés caractères spéciaux) :
+- Le backslash \
+- Le circonflexe ^
+- Le dollar $
+- Le point .
+- La barre verticale (le pipe) |
+- Le point d'interrogation ?
+- L'astérisque *
+- Le plus +
+- Les parenthèses ( )
+- Les crochets [ ]
+- Les accolades { }
+- ...et parfois le slash /
+
+

@@ -1,0 +1,13 @@
+✅ McDonald's
+✅ McDonalds
+✅ MacDonald's
+✅ MacDonalds
+❌ MaacDonald's
+❌ McDonald''s
+❌ MacDo
+❌ McDonald
+❌ Donald's
+❌ Burger King
+❌ Pizza Hut
+❌ Quick
+

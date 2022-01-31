@@ -1,0 +1,8 @@
+❌ Kevin Arthur
+❌ Julie - Elodie
+❌ Eva > Lucie
+✅ Michel -> Jacques
+❌ Michel <- Jacques
+✅ Eric -----> Jean
+✅ Marion ----------> Charlotte
+❌ Olivier ------ Benoît

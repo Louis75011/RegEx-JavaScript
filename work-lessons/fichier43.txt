@@ -1,0 +1,22 @@
+Année|Nombre d'équipes|Vainqueur|Finaliste|Score de la finale|3e place|Pays hôte
+1930|13|Uruguay|Argentina|4–2|United States|Uruguay
+1934|16|Italy|Czechoslovakia|2–1 (a.p.)|Germany|Italy
+1938|15|Italy|Hungary|4–2|Brazil|France
+1950|13|Uruguay|Brazil|2–1|Sweden|Brazil
+1954|16|West Germany|Hungary|3–2|Austria|Switzerland
+1958|16|Brazil|Sweden|5–2|France|Sweden
+1962|16|Brazil|Czechoslovakia|3–1|Chile|Chile
+1966|16|England|West Germany|4–2 (a.p.)|Portugal|England
+1970|16|Brazil|Italy|4–1|West Germany|Mexico
+1974|16|West Germany|Netherlands|2–1|Poland|West Germany
+1978|16|Argentina|Netherlands|3–1 (a.p.)|Brazil|Argentina
+1982|24|Italy|West Germany|3–1|Poland|Spain
+1986|24|Argentina|West Germany|3–2|France|Mexico
+1990|24|West Germany|Argentina|1–0|Italy|Italy
+1994|24|Brazil|Italy|0–0 (a.p.)|Sweden|United States
+1998|32|France|Brazil|3–0|Croatia|France
+2002|32|Brazil|Germany|2–0|Turkey|South Korea and Japan
+2006|32|Italy|France|1–1 (a.p.)|Germany|Germany
+2010|32|Spain|Netherlands|1–0 (a.p.)|Germany|South Africa
+2014|32|Germany|Argentina|1–0 (a.p.)|Netherlands|Brazil
+2018|32|France|Croatia|4–2|Belgium|Russia
