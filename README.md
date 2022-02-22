@@ -6,7 +6,14 @@
 
 #### Programmation JavaScript.
 
-    * Notes de cours
+##### EN/FR
+
+###### // Put your code online https://jsbin.com/?html,output
+// Fichier4.txt
+let re1 = new RegExp("1/2L")
+let re2 = /1\/2L/
+
+####### Mes notes de cours
 
 "RegEx" est le diminutif d'expression régulière (regular expression - RE), qui est un morceau de texte qui décrit un motif (patern) de recherche.
 
